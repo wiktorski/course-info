@@ -32,9 +32,11 @@ assignments in Autograder.
    account for only this course if you do not want Autograder to access your
    personal account.
 
+4. Fill in you name, email, and student id. Click save.
+
 ## Signing up for the course
 
-1. Click the "Courses" menu item.
+1. Click the "Courses" menu item in [Autograder](http://ag3.ux.uis.no).
 
 2. In the "Courses" menu select “Join a course”. Available courses will be listed.
 
