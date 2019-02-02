@@ -25,20 +25,20 @@ assignments in Autograder.
 
 2. Click the "Sign in with GitHub" button in
    [Autograder](http://ag3.ux.uis.no) to register. You will then be
-   taken to GitHub's website.
+   taken to GitHub's website. [\[screenshot1\]](images/reg1_2a.png) [\[screenshot2\]](images/reg1_2a.png)
 
 3. Approve that Autograder can have permission to access the
    requested parts of your account. It is possible to make a separate GitHub
    account for only this course if you do not want Autograder to access your
-   personal account.
+   personal account. [\[screenshot\]](images/reg1_3.png)
 
-4. Fill in you name, email, and student id. Click save.
+4. Fill in you name, email, and student id. Click save. [\[screenshot\]](images/reg1_4.png)
 
 ## Signing up for the course
 
-1. Click the "Courses" menu item in [Autograder](http://ag3.ux.uis.no).
+1. Click the "Courses" menu item in [Autograder](http://ag3.ux.uis.no). [\[screenshot\]](images/reg2_1.png)
 
-2. In the "Courses" menu select “Join a course”. Available courses will be listed.
+2. In the "Courses" menu select “Join a course”. Available courses will be listed. [\[screenshot\]](images/reg2_4.png)
 
 3. Find the course “DATPREP19” and click "Enroll".
 
@@ -46,10 +46,10 @@ assignments in Autograder.
    organization [uis-datprep-19](http://www.github.com/uis-datprep-19) on GitHub.
 
 5. An invitation will be sent to the email address linked to your GitHub
-   account. Accept the invitation using the received email.
+   account. Accept the invitation using the received email. [\[screenshot\]](images/reg2_5.png)
 
 6. Wait for the teaching staff to verify your Autograder-registration.
 
 7. You will get your own repository in the organization "uis-datprep-19" on GitHub
    after your registration is verified. You will also have access to the
-   feedback pages for this course on Autograder.
+   feedback pages for this course on Autograder. [\[screenshot1\]](images/reg2_7a.png) [\[screenshot2\]](images/reg2_7b.png)
