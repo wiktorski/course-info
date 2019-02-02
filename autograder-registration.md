@@ -38,7 +38,7 @@ assignments in Autograder.
 
 1. Click the "Courses" menu item in [Autograder](http://ag3.ux.uis.no). [\[screenshot\]](images/reg2_1.png)
 
-2. In the "Courses" menu select “Join a course”. Available courses will be listed. [\[screenshot\]](images/reg2_4.png)
+2. In the "Courses" menu select “Join a course”. Available courses will be listed. [\[screenshot\]](images/reg2_2_4.png)
 
 3. Find the course “DATPREP19” and click "Enroll".
 
