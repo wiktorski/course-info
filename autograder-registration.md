@@ -25,7 +25,7 @@ assignments in Autograder.
 
 2. Click the "Sign in with GitHub" button in
    [Autograder](http://ag3.ux.uis.no) to register. You will then be
-   taken to GitHub's website. [\[screenshot1\]](images/reg1_2a.png) [\[screenshot2\]](images/reg1_2a.png)
+   taken to GitHub's website. [\[screenshot1\]](images/reg1_2a.png) [\[screenshot2\]](images/reg1_2b.png)
 
 3. Approve that Autograder can have permission to access the
    requested parts of your account. It is possible to make a separate GitHub
